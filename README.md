@@ -9,8 +9,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love travelling
 ## 🛠️ Skills
-- **Languages:** JavaScript, PHP, HTML, CSS
-- **Frameworks/Libraries:** jQuery
+- **Languages:** JavaScript, PHP, HTML, CSS, SQL
+- **Frameworks/Libraries:** jQuery, React Js
 - **Tools:** Git, Webpack
 - **Other:** WordPress, WooCommerce, REST APIs
 
