@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🔭 I’m currently working at WPBrigade
-- 🌱 I’m currently learning advanced JavaScript
+- 🌱 I’m currently learning advanced JavaScript, React js
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about WordPress development and web technologies
 - 📫 How to reach me: [abdullahsarfrazali7@gmail.com](mailto:abdullahsarfrazali7@gmail.com)
